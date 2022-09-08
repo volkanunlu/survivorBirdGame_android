@@ -1,2 +1,2 @@
 # survivorBirdGame_android
-This porject contains survivor bird game.
+This project contains survivor bird game.
